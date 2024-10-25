@@ -2,12 +2,12 @@
 <html xmlns="http://www.w3.org/1999/xhtml" lang="en" xml:lang="en"><head>
 
 <meta charset="utf-8">
-<meta name="generator" content="quarto-1.3.450">
+<meta name="generator" content="quarto-1.6.1">
 
 <meta name="viewport" content="width=device-width, initial-scale=1.0, user-scalable=yes">
 
 
-<title>ADS Training School - Training School Programme</title>
+<title>Training School Programme – ADS Training School</title>
 <style>
 code{white-space: pre-wrap;}
 span.smallcaps{font-variant: small-caps;}
@@ -45,7 +45,12 @@ ul.task-list li input[type="checkbox"] {
   "collapse-after": 3,
   "panel-placement": "end",
   "type": "overlay",
-  "limit": 20,
+  "limit": 50,
+  "keyboard-shortcut": [
+    "f",
+    "/",
+    "s"
+  ],
   "language": {
     "search-no-results-text": "No results",
     "search-matching-documents-text": "matching documents",
@@ -54,6 +59,7 @@ ul.task-list li input[type="checkbox"] {
     "search-more-match-text": "more match in this document",
     "search-more-matches-text": "more matches in this document",
     "search-clear-button-title": "Clear",
+    "search-text-placeholder": "",
     "search-detached-cancel-button-title": "Cancel",
     "search-submit-button-title": "Submit",
     "search-label": "Search"
@@ -69,9 +75,9 @@ ul.task-list li input[type="checkbox"] {
 
 <div id="quarto-search-results"></div>
   <header id="quarto-header" class="headroom fixed-top">
-    <nav class="navbar navbar-expand-lg navbar-dark ">
+    <nav class="navbar navbar-expand-lg " data-bs-theme="dark">
       <div class="navbar-container container-fluid">
-      <div class="navbar-brand-container">
+      <div class="navbar-brand-container mx-auto">
     <a href="./index.html" class="navbar-brand navbar-brand-logo">
     <img src="./figs/ads.png" alt="" class="navbar-logo">
     </a>
@@ -80,40 +86,40 @@ ul.task-list li input[type="checkbox"] {
     </a>
   </div>
             <div id="quarto-search" class="" title="Search"></div>
-          <button class="navbar-toggler" type="button" data-bs-toggle="collapse" data-bs-target="#navbarCollapse" aria-controls="navbarCollapse" aria-expanded="false" aria-label="Toggle navigation" onclick="if (window.quartoToggleHeadroom) { window.quartoToggleHeadroom(); }">
+          <button class="navbar-toggler" type="button" data-bs-toggle="collapse" data-bs-target="#navbarCollapse" aria-controls="navbarCollapse" role="menu" aria-expanded="false" aria-label="Toggle navigation" onclick="if (window.quartoToggleHeadroom) { window.quartoToggleHeadroom(); }">
   <span class="navbar-toggler-icon"></span>
 </button>
           <div class="collapse navbar-collapse" id="navbarCollapse">
             <ul class="navbar-nav navbar-nav-scroll ms-auto">
   <li class="nav-item">
-    <a class="nav-link" href="./info.html" rel="" target=""><i class="bi bi-info-circle-fill" role="img">
+    <a class="nav-link" href="./info.html"> <i class="bi bi-info-circle-fill" role="img">
 </i> 
- <span class="menu-text">Info</span></a>
+<span class="menu-text">Info</span></a>
   </li>  
   <li class="nav-item">
-    <a class="nav-link" href="./application.html" rel="" target=""><i class="bi bi-clipboard2-check" role="img">
+    <a class="nav-link" href="./application.html"> <i class="bi bi-clipboard2-check" role="img">
 </i> 
- <span class="menu-text">Applications</span></a>
+<span class="menu-text">Applications</span></a>
   </li>  
   <li class="nav-item">
-    <a class="nav-link active" href="./programme.html" rel="" target="" aria-current="page"><i class="bi bi-calendar2-day" role="img">
+    <a class="nav-link active" href="./programme.html" aria-current="page"> <i class="bi bi-calendar2-day" role="img">
 </i> 
- <span class="menu-text">Programme</span></a>
+<span class="menu-text">Programme</span></a>
   </li>  
   <li class="nav-item">
-    <a class="nav-link" href="./about.html" rel="" target=""><i class="bi bi-people-fill" role="img">
+    <a class="nav-link" href="./about.html"> <i class="bi bi-people-fill" role="img">
 </i> 
- <span class="menu-text">About</span></a>
+<span class="menu-text">About</span></a>
   </li>  
   <li class="nav-item compact">
-    <a class="nav-link" href="https://github.com/" rel="" target=""><i class="bi bi-github" role="img">
+    <a class="nav-link" href="https://github.com/"> <i class="bi bi-github" role="img">
 </i> 
- <span class="menu-text"></span></a>
+<span class="menu-text"></span></a>
   </li>  
 </ul>
+          </div> <!-- /navcollapse -->
             <div class="quarto-navbar-tools">
 </div>
-          </div> <!-- /navcollapse -->
       </div> <!-- /container-fluid -->
     </nav>
 </header>
@@ -126,14 +132,17 @@ ul.task-list li input[type="checkbox"] {
     <h2 id="toc-title">On this page</h2>
    
   <ul>
-  <li><a href="#outline-schedule" id="toc-outline-schedule" class="nav-link active" data-scroll-target="#outline-schedule">🗓️ Outline Schedule</a></li>
-  <li><a href="#topics" id="toc-topics" class="nav-link" data-scroll-target="#topics">💻 Topics</a>
+  <li><a href="#schedule" id="toc-schedule" class="nav-link active" data-scroll-target="#schedule">🗓️ Schedule</a>
   <ul class="collapse">
-  <li><a href="#day-1---introduction" id="toc-day-1---introduction" class="nav-link" data-scroll-target="#day-1---introduction">Day 1 - Introduction</a></li>
-  <li><a href="#day-2---data-management" id="toc-day-2---data-management" class="nav-link" data-scroll-target="#day-2---data-management">Day 2 - Data Management</a></li>
-  <li><a href="#day-3---digital-preservation-and-quality-assurance" id="toc-day-3---digital-preservation-and-quality-assurance" class="nav-link" data-scroll-target="#day-3---digital-preservation-and-quality-assurance">Day 3 - Digital Preservation and Quality Assurance</a></li>
-  <li><a href="#day-4---dissemination-and-data-reuse" id="toc-day-4---dissemination-and-data-reuse" class="nav-link" data-scroll-target="#day-4---dissemination-and-data-reuse">Day 4 - Dissemination and Data Reuse</a></li>
-  <li><a href="#one-one-one-sessions-with-ads-experts" id="toc-one-one-one-sessions-with-ads-experts" class="nav-link" data-scroll-target="#one-one-one-sessions-with-ads-experts">🧑 One one one sessions with ADS Experts</a></li>
+  <li><a href="#monday-11th-november---introduction" id="toc-monday-11th-november---introduction" class="nav-link" data-scroll-target="#monday-11th-november---introduction">Monday 11th November - Introduction</a></li>
+  <li><a href="#tuesday-12th-november---data-management" id="toc-tuesday-12th-november---data-management" class="nav-link" data-scroll-target="#tuesday-12th-november---data-management">Tuesday 12th November - Data Management</a></li>
+  <li><a href="#wednesday-13th-november---digital-preservation-and-quality-assurance" id="toc-wednesday-13th-november---digital-preservation-and-quality-assurance" class="nav-link" data-scroll-target="#wednesday-13th-november---digital-preservation-and-quality-assurance">Wednesday 13th November - Digital Preservation and Quality Assurance</a></li>
+  <li><a href="#thursday-14th-november---dissemination-and-data-reuse" id="toc-thursday-14th-november---dissemination-and-data-reuse" class="nav-link" data-scroll-target="#thursday-14th-november---dissemination-and-data-reuse">Thursday 14th November - Dissemination and Data Reuse</a></li>
+  <li><a href="#friday-15th-november---one-one-one-sessions-with-ads-experts" id="toc-friday-15th-november---one-one-one-sessions-with-ads-experts" class="nav-link" data-scroll-target="#friday-15th-november---one-one-one-sessions-with-ads-experts">🧑 Friday 15th November - One one one sessions with ADS Experts</a></li>
+  </ul></li>
+  <li><a href="#keynote-lecture" id="toc-keynote-lecture" class="nav-link" data-scroll-target="#keynote-lecture">Keynote lecture</a>
+  <ul class="collapse">
+  <li><a href="#the-archaeology-data-service-and-it-role-in-the-european-heritage-landscape" id="toc-the-archaeology-data-service-and-it-role-in-the-european-heritage-landscape" class="nav-link" data-scroll-target="#the-archaeology-data-service-and-it-role-in-the-european-heritage-landscape">The Archaeology Data Service and it role in the European Heritage Landscape</a></li>
   </ul></li>
   </ul>
 </nav>
@@ -156,95 +165,77 @@ ul.task-list li input[type="checkbox"] {
   </div>
   
 
+
 </header>
 
-<p>The training school will take place over five days, beginning with structured teaching and allowing time towards the end to discuss how best to apply these practices to the applicants own circumstances.</p>
-<p>This page provides information as to the schedule of the training school, the topics covered and, in due course, links to the training materials.</p>
-<section id="outline-schedule" class="level2">
-<h2 class="anchored" data-anchor-id="outline-schedule">🗓️ Outline Schedule</h2>
-<table class="table">
-<colgroup>
-<col style="width: 26%">
-<col style="width: 73%">
-</colgroup>
-<thead>
-<tr class="header">
-<th>Date</th>
-<th>Section</th>
-</tr>
-</thead>
-<tbody>
-<tr class="odd">
-<td>Monday 11th November</td>
-<td>Introduction</td>
-</tr>
-<tr class="even">
-<td>Tuesday 12th November</td>
-<td>Data Management</td>
-</tr>
-<tr class="odd">
-<td>Wednesday 13th November</td>
-<td>Digital Preservation and Quality Assurance</td>
-</tr>
-<tr class="even">
-<td>Thursday 14th November</td>
-<td>Dissemination and Data Reuse / One one one sessions with ADS Experts</td>
-</tr>
-<tr class="odd">
-<td>Friday 15th November</td>
-<td>One one one sessions with ADS Experts</td>
-</tr>
-</tbody>
-</table>
-</section>
-<section id="topics" class="level2">
-<h2 class="anchored" data-anchor-id="topics">💻 Topics</h2>
-<p>Below is a preliminary list of subjects covered for each section of the course. Further details will be provided closer to the time of the training school.</p>
-<section id="day-1---introduction" class="level3">
-<h3 class="anchored" data-anchor-id="day-1---introduction">Day 1 - Introduction</h3>
+
+<p>The training school will take place over five days, beginning with structured teaching and hands on activities and allowing time towards the end of the week to discuss how to apply these good practices to the applicants own circumstances.</p>
+<p>This page provides the programme of the training school, the topics covered and, in due course, links to the training materials.</p>
+<section id="schedule" class="level2">
+<h2 class="anchored" data-anchor-id="schedule">🗓️ Schedule</h2>
+<section id="monday-11th-november---introduction" class="level3">
+<h3 class="anchored" data-anchor-id="monday-11th-november---introduction">Monday 11th November - Introduction</h3>
 <ul>
-<li>Welcome</li>
+<li>Tour of Kings Manor and the ADS Offices</li>
+<li>Welcome - Outline of Training Programme</li>
 <li>Introduction to the ADS</li>
 <li>Attendee introductions</li>
-<li>Discussion: Set personal trainee objectives.</li>
-<li>The FAIR and CARE data principles</li>
+<li>Collection Highlights from the ADS</li>
+<li>Activity: Set personal trainee objectives.</li>
 </ul>
 </section>
-<section id="day-2---data-management" class="level3">
-<h3 class="anchored" data-anchor-id="day-2---data-management">Day 2 - Data Management</h3>
+<section id="tuesday-12th-november---data-management" class="level3">
+<h3 class="anchored" data-anchor-id="tuesday-12th-november---data-management">Tuesday 12th November - Data Management</h3>
 <ul>
-<li>Where to start - Knowing and Organising Your Data</li>
-<li><a href="https://archaeologydataservice.ac.uk/help-guidance/guides-to-good-practice/">ADS Guides to Good Practice</a> and <a href="https://archaeologydataservice.ac.uk/help-guidance/instructions-for-depositors/">ADS Instructions for depositors</a></li>
+<li>Open Research and Archaeological Data</li>
+<li>The FAIR and CARE data principles</li>
 <li>An Introduction to Data Management</li>
-<li>Planning Selection and Retention Strategies</li>
+<li>Activity: Critical Analysis of Data Management Plans</li>
+<li>Activity: Write a DMP using DMPTool</li>
 <li>The Importance of <a href="https://archaeologydataservice.ac.uk/about/endpoints.xhtml">Metadata</a> - Discovery and Preservation</li>
-<li>Introduction to Thesauri and Standardised Vocabularies</li>
+<li>Data Storage and Backup</li>
+<li>Useful Resources / Tip and Tricks</li>
 </ul>
 </section>
-<section id="day-3---digital-preservation-and-quality-assurance" class="level3">
-<h3 class="anchored" data-anchor-id="day-3---digital-preservation-and-quality-assurance">Day 3 - Digital Preservation and Quality Assurance</h3>
+<section id="wednesday-13th-november---digital-preservation-and-quality-assurance" class="level3">
+<h3 class="anchored" data-anchor-id="wednesday-13th-november---digital-preservation-and-quality-assurance">Wednesday 13th November - Digital Preservation and Quality Assurance</h3>
 <ul>
 <li>An Introduction to Digital Preservation</li>
-<li>Migration and Normalisation of Files</li>
 <li>Workflows for Archives - Tour of the ADS archiving workflow</li>
-<li>Discussion - share your digital archiving workflows</li>
+<li>Organisation Workflows and Preservation Policies</li>
+<li>File Formats - Migration and Normalisation of Files</li>
+<li>Planning Selection and Retention Strategies</li>
+<li>Activity: Selecting Datasets</li>
 </ul>
 </section>
-<section id="day-4---dissemination-and-data-reuse" class="level3">
-<h3 class="anchored" data-anchor-id="day-4---dissemination-and-data-reuse">Day 4 - Dissemination and Data Reuse</h3>
+<section id="thursday-14th-november---dissemination-and-data-reuse" class="level3">
+<h3 class="anchored" data-anchor-id="thursday-14th-november---dissemination-and-data-reuse">Thursday 14th November - Dissemination and Data Reuse</h3>
 <ul>
-<li>Discussion - share your digital archiving workflows</li>
-<li>Quality Assurance</li>
-<li>Data Standards</li>
-<li>Monitoring data and data integrity</li>
-<li>Where is our Data: Reaching for the clouds</li>
+<li>Collections Management</li>
+<li>Archive Interfaces</li>
+<li>Disseminating Research and Data - A Case Study from the ADS</li>
+<li>Activity: Designing a dissemination plan</li>
 <li>Facilitating <a href="https://archaeologydataservice.ac.uk/about/dataReuse.xhtml">Data Reuse</a></li>
-<li>Looking to the Future at ADS</li>
+<li>Digital Publication</li>
+<li>Identifying objectives for One on One Sessions</li>
 </ul>
 </section>
-<section id="one-one-one-sessions-with-ads-experts" class="level3">
-<h3 class="anchored" data-anchor-id="one-one-one-sessions-with-ads-experts">🧑 One one one sessions with ADS Experts</h3>
-<p>Participants will be matched with an appropriate expert from the ADS to discuss their specific needs and requirements for their organisation or research project. We recommend that each participant come to the training school with a specific requirement in mind, however, we can also help to provide support during the training sessions. These sessions will take place on the last two days of the training school.</p>
+<section id="friday-15th-november---one-one-one-sessions-with-ads-experts" class="level3">
+<h3 class="anchored" data-anchor-id="friday-15th-november---one-one-one-sessions-with-ads-experts">🧑 Friday 15th November - One one one sessions with ADS Experts</h3>
+<p>Participants will be matched with an appropriate expert from the ADS to discuss their specific needs and requirements for their organisation or research project. We recommend that each participant come to the training school with a specific requirement in mind, however, we can also help to provide support during the training sessions. These sessions will take place on the last day of the training school.</p>
+</section>
+</section>
+<section id="keynote-lecture" class="level2">
+<h2 class="anchored" data-anchor-id="keynote-lecture">Keynote lecture</h2>
+<p>The keynote lecture by ADS Director <strong>Professor Julian Richards</strong> will take place on Wednesday, 13th November at 4:00 pm, followed by a social event.</p>
+<section id="the-archaeology-data-service-and-it-role-in-the-european-heritage-landscape" class="level3">
+<h3 class="anchored" data-anchor-id="the-archaeology-data-service-and-it-role-in-the-european-heritage-landscape">The Archaeology Data Service and it role in the European Heritage Landscape</h3>
+<p><strong>Julian Richards</strong></p>
+<div class="quarto-figure quarto-figure-center">
+<figure class="figure">
+<p><img src="figs/JDR.jpeg" class="shadow img-fluid quarto-figure quarto-figure-center figure-img"></p>
+</figure>
+</div>
 
 
 </section>
@@ -286,18 +277,7 @@ window.document.addEventListener("DOMContentLoaded", function (event) {
     }
     return false;
   }
-  const clipboard = new window.ClipboardJS('.code-copy-button', {
-    text: function(trigger) {
-      const codeEl = trigger.previousElementSibling.cloneNode(true);
-      for (const childEl of codeEl.children) {
-        if (isCodeAnnotation(childEl)) {
-          childEl.remove();
-        }
-      }
-      return codeEl.innerText;
-    }
-  });
-  clipboard.on('success', function(e) {
+  const onCopySuccess = function(e) {
     // button target
     const button = e.trigger;
     // don't keep focus
@@ -329,11 +309,55 @@ window.document.addEventListener("DOMContentLoaded", function (event) {
     }, 1000);
     // clear code selection
     e.clearSelection();
+  }
+  const getTextToCopy = function(trigger) {
+      const codeEl = trigger.previousElementSibling.cloneNode(true);
+      for (const childEl of codeEl.children) {
+        if (isCodeAnnotation(childEl)) {
+          childEl.remove();
+        }
+      }
+      return codeEl.innerText;
+  }
+  const clipboard = new window.ClipboardJS('.code-copy-button:not([data-in-quarto-modal])', {
+    text: getTextToCopy
   });
-  function tippyHover(el, contentFn) {
+  clipboard.on('success', onCopySuccess);
+  if (window.document.getElementById('quarto-embedded-source-code-modal')) {
+    // For code content inside modals, clipBoardJS needs to be initialized with a container option
+    // TODO: Check when it could be a function (https://github.com/zenorocha/clipboard.js/issues/860)
+    const clipboardModal = new window.ClipboardJS('.code-copy-button[data-in-quarto-modal]', {
+      text: getTextToCopy,
+      container: window.document.getElementById('quarto-embedded-source-code-modal')
+    });
+    clipboardModal.on('success', onCopySuccess);
+  }
+    var localhostRegex = new RegExp(/^(?:http|https):\/\/localhost\:?[0-9]*\//);
+    var mailtoRegex = new RegExp(/^mailto:/);
+      var filterRegex = new RegExp("https:\/\/archaeologydataservice\.ac\.uk\/");
+    var isInternal = (href) => {
+        return filterRegex.test(href) || localhostRegex.test(href) || mailtoRegex.test(href);
+    }
+    // Inspect non-navigation links and adorn them if external
+ 	var links = window.document.querySelectorAll('a[href]:not(.nav-link):not(.navbar-brand):not(.toc-action):not(.sidebar-link):not(.sidebar-item-toggle):not(.pagination-link):not(.no-external):not([aria-hidden]):not(.dropdown-item):not(.quarto-navigation-tool):not(.about-link)');
+    for (var i=0; i<links.length; i++) {
+      const link = links[i];
+      if (!isInternal(link.href)) {
+        // undo the damage that might have been done by quarto-nav.js in the case of
+        // links that we want to consider external
+        if (link.dataset.originalHref !== undefined) {
+          link.href = link.dataset.originalHref;
+        }
+          // target, if specified
+          link.setAttribute("target", "_blank");
+          if (link.getAttribute("rel") === null) {
+            link.setAttribute("rel", "noopener");
+          }
+      }
+    }
+  function tippyHover(el, contentFn, onTriggerFn, onUntriggerFn) {
     const config = {
       allowHTML: true,
-      content: contentFn,
       maxWidth: 500,
       delay: 100,
       arrow: false,
@@ -343,8 +367,17 @@ window.document.addEventListener("DOMContentLoaded", function (event) {
       interactive: true,
       interactiveBorder: 10,
       theme: 'quarto',
-      placement: 'bottom-start'
+      placement: 'bottom-start',
     };
+    if (contentFn) {
+      config.content = contentFn;
+    }
+    if (onTriggerFn) {
+      config.onTrigger = onTriggerFn;
+    }
+    if (onUntriggerFn) {
+      config.onUntrigger = onUntriggerFn;
+    }
     window.tippy(el, config); 
   }
   const noterefs = window.document.querySelectorAll('a[role="doc-noteref"]');
@@ -356,7 +389,130 @@ window.document.addEventListener("DOMContentLoaded", function (event) {
       try { href = new URL(href).hash; } catch {}
       const id = href.replace(/^#\/?/, "");
       const note = window.document.getElementById(id);
-      return note.innerHTML;
+      if (note) {
+        return note.innerHTML;
+      } else {
+        return "";
+      }
+    });
+  }
+  const xrefs = window.document.querySelectorAll('a.quarto-xref');
+  const processXRef = (id, note) => {
+    // Strip column container classes
+    const stripColumnClz = (el) => {
+      el.classList.remove("page-full", "page-columns");
+      if (el.children) {
+        for (const child of el.children) {
+          stripColumnClz(child);
+        }
+      }
+    }
+    stripColumnClz(note)
+    if (id === null || id.startsWith('sec-')) {
+      // Special case sections, only their first couple elements
+      const container = document.createElement("div");
+      if (note.children && note.children.length > 2) {
+        container.appendChild(note.children[0].cloneNode(true));
+        for (let i = 1; i < note.children.length; i++) {
+          const child = note.children[i];
+          if (child.tagName === "P" && child.innerText === "") {
+            continue;
+          } else {
+            container.appendChild(child.cloneNode(true));
+            break;
+          }
+        }
+        if (window.Quarto?.typesetMath) {
+          window.Quarto.typesetMath(container);
+        }
+        return container.innerHTML
+      } else {
+        if (window.Quarto?.typesetMath) {
+          window.Quarto.typesetMath(note);
+        }
+        return note.innerHTML;
+      }
+    } else {
+      // Remove any anchor links if they are present
+      const anchorLink = note.querySelector('a.anchorjs-link');
+      if (anchorLink) {
+        anchorLink.remove();
+      }
+      if (window.Quarto?.typesetMath) {
+        window.Quarto.typesetMath(note);
+      }
+      // TODO in 1.5, we should make sure this works without a callout special case
+      if (note.classList.contains("callout")) {
+        return note.outerHTML;
+      } else {
+        return note.innerHTML;
+      }
+    }
+  }
+  for (var i=0; i<xrefs.length; i++) {
+    const xref = xrefs[i];
+    tippyHover(xref, undefined, function(instance) {
+      instance.disable();
+      let url = xref.getAttribute('href');
+      let hash = undefined; 
+      if (url.startsWith('#')) {
+        hash = url;
+      } else {
+        try { hash = new URL(url).hash; } catch {}
+      }
+      if (hash) {
+        const id = hash.replace(/^#\/?/, "");
+        const note = window.document.getElementById(id);
+        if (note !== null) {
+          try {
+            const html = processXRef(id, note.cloneNode(true));
+            instance.setContent(html);
+          } finally {
+            instance.enable();
+            instance.show();
+          }
+        } else {
+          // See if we can fetch this
+          fetch(url.split('#')[0])
+          .then(res => res.text())
+          .then(html => {
+            const parser = new DOMParser();
+            const htmlDoc = parser.parseFromString(html, "text/html");
+            const note = htmlDoc.getElementById(id);
+            if (note !== null) {
+              const html = processXRef(id, note);
+              instance.setContent(html);
+            } 
+          }).finally(() => {
+            instance.enable();
+            instance.show();
+          });
+        }
+      } else {
+        // See if we can fetch a full url (with no hash to target)
+        // This is a special case and we should probably do some content thinning / targeting
+        fetch(url)
+        .then(res => res.text())
+        .then(html => {
+          const parser = new DOMParser();
+          const htmlDoc = parser.parseFromString(html, "text/html");
+          const note = htmlDoc.querySelector('main.content');
+          if (note !== null) {
+            // This should only happen for chapter cross references
+            // (since there is no id in the URL)
+            // remove the first header
+            if (note.children.length > 0 && note.children[0].tagName === "HEADER") {
+              note.children[0].remove();
+            }
+            const html = processXRef(null, note);
+            instance.setContent(html);
+          } 
+        }).finally(() => {
+          instance.enable();
+          instance.show();
+        });
+      }
+    }, function(instance) {
     });
   }
       let selectedAnnoteEl;
@@ -400,6 +556,7 @@ window.document.addEventListener("DOMContentLoaded", function (event) {
             }
             div.style.top = top - 2 + "px";
             div.style.height = height + 4 + "px";
+            div.style.left = 0;
             let gutterDiv = window.document.getElementById("code-annotation-line-highlight-gutter");
             if (gutterDiv === null) {
               gutterDiv = window.document.createElement("div");
@@ -425,6 +582,32 @@ window.document.addEventListener("DOMContentLoaded", function (event) {
         });
         selectedAnnoteEl = undefined;
       };
+        // Handle positioning of the toggle
+    window.addEventListener(
+      "resize",
+      throttle(() => {
+        elRect = undefined;
+        if (selectedAnnoteEl) {
+          selectCodeLines(selectedAnnoteEl);
+        }
+      }, 10)
+    );
+    function throttle(fn, ms) {
+    let throttle = false;
+    let timer;
+      return (...args) => {
+        if(!throttle) { // first call gets through
+            fn.apply(this, args);
+            throttle = true;
+        } else { // all the others get throttled
+            if(timer) clearTimeout(timer); // cancel #2
+            timer = setTimeout(() => {
+              fn.apply(this, args);
+              timer = throttle = false;
+            }, ms);
+        }
+      };
+    }
       // Attach click handler to the DT
       const annoteDls = window.document.querySelectorAll('dt[data-target-cell]');
       for (const annoteDlNode of annoteDls) {
@@ -482,38 +665,29 @@ window.document.addEventListener("DOMContentLoaded", function (event) {
       });
     }
   }
-    var localhostRegex = new RegExp(/^(?:http|https):\/\/localhost\:?[0-9]*\//);
-      var filterRegex = new RegExp("https:\/\/archaeologydataservice\.ac\.uk\/");
-    var isInternal = (href) => {
-        return filterRegex.test(href) || localhostRegex.test(href);
-    }
-    // Inspect non-navigation links and adorn them if external
- 	var links = window.document.querySelectorAll('a[href]:not(.nav-link):not(.navbar-brand):not(.toc-action):not(.sidebar-link):not(.sidebar-item-toggle):not(.pagination-link):not(.no-external):not([aria-hidden]):not(.dropdown-item)');
-    for (var i=0; i<links.length; i++) {
-      const link = links[i];
-      if (!isInternal(link.href)) {
-          // target, if specified
-          link.setAttribute("target", "_blank");
-      }
-    }
 });
 </script>
 </div> <!-- /content -->
 <footer class="footer">
   <div class="nav-footer">
-    <div class="nav-footer-left">This page is built with <a href="https://quarto.org/">Quarto</a>.</div>   
+    <div class="nav-footer-left">
+<p>This page is built with <a href="https://quarto.org/">Quarto</a>.</p>
+</div>   
     <div class="nav-footer-center">
       &nbsp;
     </div>
     <div class="nav-footer-right">
       <ul class="footer-items list-unstyled">
     <li class="nav-item">
-    <a class="nav-link" href="https://creativecommons.org/licenses/by/4.0/deed.en">CC-BY 4.0 licence.</a>
+    <a class="nav-link" href="https://creativecommons.org/licenses/by/4.0/deed.en">
+<p>CC-BY 4.0 licence.</p>
+</a>
   </li>  
 </ul>
     </div>
   </div>
 </footer>
+
 
 
 

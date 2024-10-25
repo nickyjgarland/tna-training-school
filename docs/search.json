@@ -4,14 +4,14 @@
     "href": "session/session-01.html",
     "title": "Session 01",
     "section": "",
-    "text": "Lectures\n\n\n\n\n\n\nTopic\n\n\nDate\n\n\n\n\n\n\n\n\nNo matching items\n\n\n\n\nAssignments\nThere are no assignments scheduled this week.\n\n\nReadings\n\n\n\n\n\n\nCourse Syllabus\n\n\nR for Data Science: Chapter 2 - Introduction\n\n\nIntro to Modern Data Science: Chapter 1 - Hello data"
+    "text": "Lectures\n\n\n\n\n\nTopic\n\n\nDate\n\n\n\n\n\n\n\nNo matching items\n\n\n\n\nAssignments\nThere are no assignments scheduled this week.\n\n\nReadings\n\n\n\n\n\n\nCourse Syllabus\n\n\nR for Data Science: Chapter 2 - Introduction\n\n\nIntro to Modern Data Science: Chapter 1 - Hello data"
   },
   {
     "objectID": "programme.html",
     "href": "programme.html",
     "title": "Training School Programme",
     "section": "",
-    "text": "The training school will take place over five days, beginning with structured teaching and allowing time towards the end to discuss how best to apply these practices to the applicants own circumstances.\nThis page provides information as to the schedule of the training school, the topics covered and, in due course, links to the training materials."
+    "text": "The training school will take place over five days, beginning with structured teaching and hands on activities and allowing time towards the end of the week to discuss how to apply these good practices to the applicants own circumstances.\nThis page provides the programme of the training school, the topics covered and, in due course, links to the training materials."
   },
   {
     "objectID": "programme.html#outline-schedule",
@@ -123,14 +123,14 @@
     "href": "schedule.html",
     "title": "Schedule",
     "section": "",
-    "text": "Session\n\n\nDates\n\n\nTopic\n\n\n\n\n\n\nSession 01\n\n\nAug 29 - Sep 02\n\n\nWelcome to Intro Data Science\n\n\n\n\n\n\nNo matching items"
+    "text": "Session\n\n\nDates\n\n\nTopic\n\n\n\n\n\n\nSession 01\n\n\nAug 29 - Sep 02\n\n\nWelcome to Intro Data Science\n\n\n\n\n\nNo matching items"
   },
   {
     "objectID": "schedule.html#weekly-schedule",
     "href": "schedule.html#weekly-schedule",
     "title": "Schedule",
     "section": "",
-    "text": "Session\n\n\nDates\n\n\nTopic\n\n\n\n\n\n\nSession 01\n\n\nAug 29 - Sep 02\n\n\nWelcome to Intro Data Science\n\n\n\n\n\n\nNo matching items"
+    "text": "Session\n\n\nDates\n\n\nTopic\n\n\n\n\n\n\nSession 01\n\n\nAug 29 - Sep 02\n\n\nWelcome to Intro Data Science\n\n\n\n\n\nNo matching items"
   },
   {
     "objectID": "schedule.html#assignments",
@@ -138,5 +138,19 @@
     "title": "Schedule",
     "section": "Assignments",
     "text": "Assignments\nBelow are assignment due dates for the semester. You can find details and assignment instructions in the relevant week on the schedule.\n\nHomework\nHomework will be due on Wednesdays at 11:59pm. You will have one week to complete each homework assignment.\n\n\nLabs\nLabs will be due on Fridays at 11:59pm. You will start the lab during your scheduled lab section.\n\n\nExams\nThere will be two exams on the dates:\n\nOctober 12, 9am - October 14, 11:59pm\nNovember 16, 9am - November 16: 11:59pm"
+  },
+  {
+    "objectID": "programme.html#schedule",
+    "href": "programme.html#schedule",
+    "title": "Training School Programme",
+    "section": "🗓️ Schedule",
+    "text": "🗓️ Schedule\n\nMonday 11th November - Introduction\n\nTour of Kings Manor and the ADS Offices\nWelcome - Outline of Training Programme\nIntroduction to the ADS\nAttendee introductions\nCollection Highlights from the ADS\nActivity: Set personal trainee objectives.\n\n\n\nTuesday 12th November - Data Management\n\nOpen Research and Archaeological Data\nThe FAIR and CARE data principles\nAn Introduction to Data Management\nActivity: Critical Analysis of Data Management Plans\nActivity: Write a DMP using DMPTool\nThe Importance of Metadata - Discovery and Preservation\nData Storage and Backup\nUseful Resources / Tip and Tricks\n\n\n\nWednesday 13th November - Digital Preservation and Quality Assurance\n\nAn Introduction to Digital Preservation\nWorkflows for Archives - Tour of the ADS archiving workflow\nOrganisation Workflows and Preservation Policies\nFile Formats - Migration and Normalisation of Files\nPlanning Selection and Retention Strategies\nActivity: Selecting Datasets\n\n\n\nThursday 14th November - Dissemination and Data Reuse\n\nCollections Management\nArchive Interfaces\nDisseminating Research and Data - A Case Study from the ADS\nActivity: Designing a dissemination plan\nFacilitating Data Reuse\nDigital Publication\nIdentifying objectives for One on One Sessions\n\n\n\n🧑 Friday 15th November - One one one sessions with ADS Experts\nParticipants will be matched with an appropriate expert from the ADS to discuss their specific needs and requirements for their organisation or research project. We recommend that each participant come to the training school with a specific requirement in mind, however, we can also help to provide support during the training sessions. These sessions will take place on the last day of the training school."
+  },
+  {
+    "objectID": "programme.html#keynote-lecture",
+    "href": "programme.html#keynote-lecture",
+    "title": "Training School Programme",
+    "section": "Keynote lecture",
+    "text": "Keynote lecture\nThe keynote lecture by ADS Director Professor Julian Richards will take place on Wednesday, 13th November at 4:00 pm, followed by a social event.\n\nThe Archaeology Data Service and it role in the European Heritage Landscape\nJulian Richards"
   }
 ]
