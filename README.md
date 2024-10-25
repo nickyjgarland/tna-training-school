@@ -1,7 +1,5 @@
 # Archaeology Data Service TNA Training School
 
-[![CC BY-SA 4.0][cc-by-sa-shield]][cc-by-sa]
-
 This github repository contains the website for the 2024 ADS Training School in Data Management and Digital Preservation. This training school is provided as part of the ATRIUM Transnational Access Scheme.
 
 ## Licence
