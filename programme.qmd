@@ -2,58 +2,61 @@
 title: "Training School Programme"
 ---
 
-The training school will take place over five days, beginning with structured teaching and allowing time towards the end to discuss how best to apply these practices to the applicants own circumstances.
+The training school will take place over five days, beginning with structured teaching and hands on activities and allowing time towards the end of the week to discuss how to apply these good practices to the applicants own circumstances.
 
-This page provides information as to the schedule of the training school, the topics covered and, in due course, links to the training materials.
+This page provides the programme of the training school, the topics covered and, in due course, links to the training materials.
 
-## 🗓️ Outline Schedule
+## 🗓️ Schedule
 
-| Date                    | Section                                                              |
-|-------------------------|----------------------------------------------------------------------|
-| Monday 11th November    | Introduction                                                         |
-| Tuesday 12th November   | Data Management                                                      |
-| Wednesday 13th November | Digital Preservation and Quality Assurance                           |
-| Thursday 14th November  | Dissemination and Data Reuse / One one one sessions with ADS Experts |
-| Friday 15th November    | One one one sessions with ADS Experts                                |
+### Monday 11th November - Introduction
 
-## 💻 Topics
-
-Below is a preliminary list of subjects covered for each section of the course. Further details will be provided closer to the time of the training school.
-
-### Day 1 - Introduction
-
--   Welcome
+-   Tour of Kings Manor and the ADS Offices
+-   Welcome - Outline of Training Programme
 -   Introduction to the ADS
 -   Attendee introductions
--   Discussion: Set personal trainee objectives.
+-   Collection Highlights from the ADS
+-   Activity: Set personal trainee objectives.
+
+### Tuesday 12th November - Data Management
+
+-   Open Research and Archaeological Data
 -   The FAIR and CARE data principles
-
-### Day 2 - Data Management
-
--   Where to start - Knowing and Organising Your Data
--   [ADS Guides to Good Practice](https://archaeologydataservice.ac.uk/help-guidance/guides-to-good-practice/) and [ADS Instructions for depositors](https://archaeologydataservice.ac.uk/help-guidance/instructions-for-depositors/)
 -   An Introduction to Data Management
--   Planning Selection and Retention Strategies
+-   Activity: Critical Analysis of Data Management Plans
+-   Activity: Write a DMP using DMPTool
 -   The Importance of [Metadata](https://archaeologydataservice.ac.uk/about/endpoints.xhtml) - Discovery and Preservation
--   Introduction to Thesauri and Standardised Vocabularies
+-   Data Storage and Backup
+-   Useful Resources / Tip and Tricks
 
-### Day 3 - Digital Preservation and Quality Assurance
+### Wednesday 13th November - Digital Preservation and Quality Assurance
 
 -   An Introduction to Digital Preservation
--   Migration and Normalisation of Files
 -   Workflows for Archives - Tour of the ADS archiving workflow
--   Discussion - share your digital archiving workflows
+-   Organisation Workflows and Preservation Policies
+-   File Formats - Migration and Normalisation of Files
+-   Planning Selection and Retention Strategies
+-   Activity: Selecting Datasets
 
-### Day 4 - Dissemination and Data Reuse
+### Thursday 14th November - Dissemination and Data Reuse
 
--   Discussion - share your digital archiving workflows
--   Quality Assurance
--   Data Standards
--   Monitoring data and data integrity
--   Where is our Data: Reaching for the clouds
+-   Collections Management
+-   Archive Interfaces
+-   Disseminating Research and Data - A Case Study from the ADS
+-   Activity: Designing a dissemination plan
 -   Facilitating [Data Reuse](https://archaeologydataservice.ac.uk/about/dataReuse.xhtml)
--   Looking to the Future at ADS
+-   Digital Publication
+-   Identifying objectives for One on One Sessions
 
-### 🧑 One one one sessions with ADS Experts
+### 🧑 Friday 15th November - One one one sessions with ADS Experts
 
-Participants will be matched with an appropriate expert from the ADS to discuss their specific needs and requirements for their organisation or research project. We recommend that each participant come to the training school with a specific requirement in mind, however, we can also help to provide support during the training sessions. These sessions will take place on the last two days of the training school.
+Participants will be matched with an appropriate expert from the ADS to discuss their specific needs and requirements for their organisation or research project. We recommend that each participant come to the training school with a specific requirement in mind, however, we can also help to provide support during the training sessions. These sessions will take place on the last day of the training school.
+
+## Keynote lecture
+
+The keynote lecture by ADS Director **Professor Julian Richards** will take place on Wednesday, 13th November at 4:00 pm, followed by a social event.
+
+### The Archaeology Data Service and it role in the European Heritage Landscape
+
+**Julian Richards**
+
+![](figs/JDR.jpeg){.shadow fig-align="center"}
