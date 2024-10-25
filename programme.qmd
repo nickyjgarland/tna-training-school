@@ -51,12 +51,14 @@ This page provides the programme of the training school, the topics covered and,
 
 Participants will be matched with an appropriate expert from the ADS to discuss their specific needs and requirements for their organisation or research project. We recommend that each participant come to the training school with a specific requirement in mind, however, we can also help to provide support during the training sessions. These sessions will take place on the last day of the training school.
 
+------------------------------------------------------------------------
+
 ## Keynote lecture
 
 The keynote lecture by ADS Director **Professor Julian Richards** will take place on Wednesday, 13th November at 4:00 pm, followed by a social event.
 
-### The Archaeology Data Service and it role in the European Heritage Landscape
+### The Archaeology Data Service and its role in the European Heritage Landscape
 
 **Julian Richards**
 
-![](figs/JDR.jpeg){.shadow fig-align="center"}
+![](figs/JDR.jpeg){fig-alt="A picture of Julian Richards" fig-align="center" width="60%"}
