@@ -62,3 +62,18 @@ The keynote lecture by ADS Director **Professor Julian Richards** will take plac
 **Julian Richards**
 
 ![](figs/JDR.jpeg){fig-alt="A picture of Julian Richards" fig-align="center" width="60%"}
+
+------------------------------------------------------------------------
+
+## Digital Lunch
+
+Please join us for the Digital Lunch on Friday 15th November at 1pm. 
+
+### "Scaling down: Questioning assumptions on the reuse of digital data"
+
+**KL Seaton**
+
+(figs/seaton.jpg){fig-alt="A AI created image using Canva based on title" fig-align="center" width="60%"}
+
+This week we have KL Seaton, speaking about her PhD work on digital data reuse in archaeology:
+

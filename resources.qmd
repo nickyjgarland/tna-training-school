@@ -1,0 +1,28 @@
+---
+title: "Resources"
+---
+
+### Monday 11th November - Introduction
+
+[Introduction to the ADS Training School](/resources/TNA_Intro%20to%20ADS%20Training%20School)
+
+[Introduction to ADS - Tim Evans](/resources/TNA_Evans_Intro_2024)
+
+Collection Highlights
+- [Crystal Palace Dinosaurs](/resources/ADS%20Crystal%20Palace%20Dinosaurs) 
+- [Thornborough Henge](/resources/Thornborough%20Henge)
+
+[Objective Setting Exercise](/resources/TNA_Objective%20Setting%20Activity)
+
+### Tuesday 12th November - Data Management
+
+### Wednesday 13th November - Digital Preservation and Quality Assurance
+
+### Thursday 14th November - Dissemination and Data Reuse
+
+### Friday 15th November - One one one sessions with ADS Experts
+
+### Other Useful Links
+
+-   [TNA Blog](https://atrium-research.eu/blog/)
+-   [atRium Training School Reports](https://petrpajdla.github.io/atRium/report.html)

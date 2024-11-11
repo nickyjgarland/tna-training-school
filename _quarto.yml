@@ -30,6 +30,9 @@ website:
       - href: about.qmd
         text: About
         icon: people-fill
+      - href: resources.qmd
+        text: Resources
+        icon: card-text
       - href: https://github.com/
         icon: github
   
