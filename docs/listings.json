@@ -1,12 +1,6 @@
 [
   {
-    "listing": "/session/session-01.html",
-    "items": []
-  },
-  {
     "listing": "/schedule.html",
-    "items": [
-      "/session/session-01.html"
-    ]
+    "items": []
   }
 ]
