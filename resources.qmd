@@ -4,16 +4,16 @@ title: "Resources"
 
 ### Monday 11th November - Introduction
 
-[Introduction to the ADS Training School](../resources/tna_intro.pdf)
+[Introduction to the ADS Training School](/resources/tna_intro.pdf)
 
-[Introduction to ADS - Tim Evans](../resources/evans_intro.pdf)
+[Introduction to ADS - Tim Evans](/resources/evans_intro.pdf)
 
 Collection Highlights
 
--   [Crystal Palace Dinosaurs](../resources/crystal.pdf)
--   [Thornborough Henge](../resources/thornborough.pdf)
+-   [Crystal Palace Dinosaurs](/resources/crystal.pdf)
+-   [Thornborough Henge](/resources/thornborough.pdf)
 
-[Objective Setting Exercise](../resources/tna_objectives.pdf)
+[Objective Setting Exercise](/resources/tna_objectives.pdf)
 
 ### Tuesday 12th November - Data Management
 
