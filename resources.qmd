@@ -4,7 +4,7 @@ title: "Resources"
 
 ### Monday 11th November - Introduction
 
-[Introduction to the ADS Training School](../resources/tna.intro.pdf)
+[Introduction to the ADS Training School](../resources/tna_intro.pdf)
 
 [Introduction to ADS - Tim Evans](../resources/evans_intro.pdf)
 

@@ -1,7 +1,8 @@
 project:
   type: website
   output-dir: docs
-
+  resources: resources
+  
 website:
   title: "ADS Training School"
   site-url: https://archaeologydataservice.ac.uk/
