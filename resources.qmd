@@ -9,8 +9,9 @@ title: "Resources"
 [Introduction to ADS - Tim Evans](/resources/TNA_Evans_Intro_2024)
 
 Collection Highlights
-- [Crystal Palace Dinosaurs](/resources/ADS%20Crystal%20Palace%20Dinosaurs) 
-- [Thornborough Henge](/resources/Thornborough%20Henge)
+
+-   [Crystal Palace Dinosaurs](/resources/ADS%20Crystal%20Palace%20Dinosaurs)
+-   [Thornborough Henge](/resources/Thornborough%20Henge)
 
 [Objective Setting Exercise](/resources/TNA_Objective%20Setting%20Activity)
 
