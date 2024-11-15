@@ -17,11 +17,49 @@ Collection Highlights
 
 ### Tuesday 12th November - Data Management
 
+[Open Research](tna-training-school/resources/tna_open.pdf)
+
+[The FAIR and CARE Principles](tna-training-school/resources/tna_fair.pdf)
+
+[Data Management](tna-training-school/resources/tna_data.pdf)
+
+[The Importance of Metadata](tna-training-school/resources/tna_metadata.pdf)
+
+[Data Storage](tna-training-school/resources/tna_storage.pdf)
+
+[Resources](tna-training-school/resources/tna_tips.pdf)
+
 ### Wednesday 13th November - Digital Preservation and Quality Assurance
+
+[Introduction to Digital Preservation](tna-training-school/resources/intro_dig.pdf)
+
+]Workflows for Digital Archives - A Tour of the ADS archiving workflow](tna-training-school/resources/workflows.pdf)
+
+[Digital Preservation Coalition - Rapid Assessment Model](tna-training-school/resources/dpcram.pdf)
+
+[DPC RAM](link)
+
+[Migration and Normalisation of Files](tna-training-school/resources/files.pdf)
+
+[Selection and Retention Strategies](tna-training-school/resources/select.pdf)
+
+[Collections Management](tna-training-school/resources/collection.pdf)
 
 ### Thursday 14th November - Dissemination and Data Reuse
 
-### Friday 15th November - One one one sessions with ADS Experts
+Case Study - Archiving the CHERISH Dataset
+
+Communication and Dissemination 
+
+Disseminating ADS Research and Data 
+
+Data Reuse
+
+Digital publication: Data Papers
+
+### Friday 15th November
+
+Building Clean and Archivable Data : Workshop
 
 ### Other Useful Links
 
