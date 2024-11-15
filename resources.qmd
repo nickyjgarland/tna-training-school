@@ -17,51 +17,69 @@ Collection Highlights
 
 ### Tuesday 12th November - Data Management
 
-[Open Research](tna-training-school/resources/tna_open.pdf)
+[Open Research](/resources/tna_open.pdf)
 
-[The FAIR and CARE Principles](tna-training-school/resources/tna_fair.pdf)
+[The FAIR and CARE Principles](/resources/tna_fair.pdf)
 
-[Data Management](tna-training-school/resources/tna_data.pdf)
+[Data Management](/resources/tna_data.pdf)
 
-[The Importance of Metadata](tna-training-school/resources/tna_metadata.pdf)
+[The Importance of Metadata](/resources/tna_metadata.pdf)
 
-[Data Storage](tna-training-school/resources/tna_storage.pdf)
+[Data Storage](/resources/tna_storage.pdf)
 
-[Resources](tna-training-school/resources/tna_tips.pdf)
+[Resources](/resources/tna_tips.pdf)
 
 ### Wednesday 13th November - Digital Preservation and Quality Assurance
 
-[Introduction to Digital Preservation](tna-training-school/resources/intro_dig.pdf)
+[Introduction to Digital Preservation](/resources/intro_dig.pdf)
 
-]Workflows for Digital Archives - A Tour of the ADS archiving workflow](tna-training-school/resources/workflows.pdf)
+[Workflows for Digital Archives - A Tour of the ADS archiving workflow](/resources/workflows.pdf)
 
-[Digital Preservation Coalition - Rapid Assessment Model](tna-training-school/resources/dpcram.pdf)
+[Digital Preservation Coalition - Rapid Assessment Model](/resources/dpcram.pdf)
 
-[DPC RAM](link)
+[DPC RAM](/)
 
-[Migration and Normalisation of Files](tna-training-school/resources/files.pdf)
+[Introduction to Metadata](/resources/metadata/pdf)
 
-[Selection and Retention Strategies](tna-training-school/resources/select.pdf)
+[Migration and Normalisation of Files](/resources/files.pdf)
 
-[Collections Management](tna-training-school/resources/collection.pdf)
+[Selection and Retention Strategies](/resources/select.pdf)
+
+[Collections Management](/resources/collection.pdf)
 
 ### Thursday 14th November - Dissemination and Data Reuse
 
-Case Study - Archiving the CHERISH Dataset
+[Case Study - Archiving the CHERISH Dataset](/resources/cherish.pdf)
 
-Communication and Dissemination 
+[Communication and Dissemination](/resources/dissemination.pdf)
 
-Disseminating ADS Research and Data 
+[Disseminating ADS Research and Data](/resources/ads_comms.pdf)
 
-Data Reuse
+[Data Reuse](/resources/reuse.pdf)
 
-Digital publication: Data Papers
+[Digital publication: Data Papers](/resources/datapaper.pdf)
 
 ### Friday 15th November
 
-Building Clean and Archivable Data : Workshop
+[Building Clean and Archivable Data : Workshop](/resources/workshop.pdf)
 
 ### Other Useful Links
 
 -   [TNA Blog](https://atrium-research.eu/blog/)
 -   [atRium Training School Reports](https://petrpajdla.github.io/atRium/report.html)
+-   [DMP OPIDor](https://dmp.opidor.fr/)
+-   [Guidance on Selection in Archaeological Archiving](https://www.academia.edu/resource/work/46868761)
+-   [ARGOS](https://argos.openaire.eu/home)
+-   [DAMAP](https://damap.org)
+-   [Open Citations Tool](https://opencitations.net/tools)
+-   https://www.fulcrum.org/epubs/bz60cw28v?locale=en#/6/2\[a01_Cover\]!/4/4/1:0
+-   [EU Citizen Science](https://eu-citizen.science/project/135)
+-   [Gabi Goes Digital](https://gabii.cast.uark.edu/gabiigoesdigital/index.html)
+-   [MAEASAM Project](https://maeasam.org/)
+-   [ARCHES](https://www.archesproject.org/)
+-   [COST Action}(https://www.cost.eu/about/about-cost/)
+-   [Voyager Story Standalone](https://3d.si.edu/voyager-story-standalone)
+-   [Eureka3d](https://eureka3d.eu/)
+
+
+
