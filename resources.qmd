@@ -31,37 +31,37 @@ Collection Highlights
 
 ### Wednesday 13th November - Digital Preservation and Quality Assurance
 
-[Introduction to Digital Preservation](/resources/intro_dig.pdf)
+[Introduction to Digital Preservation](/resources/tna_intro_dig.pdf)
 
-[Workflows for Digital Archives - A Tour of the ADS archiving workflow](/resources/workflows.pdf)
+[Workflows for Digital Archives - A Tour of the ADS archiving workflow](/resources/tna_workflows.pdf)
 
-[Digital Preservation Coalition - Rapid Assessment Model](/resources/dpcram.pdf)
+[Digital Preservation Coalition - Rapid Assessment Model](/resources/tna_dpcram.pdf)
 
-[DPC RAM](/)
+[DPC RAM](https://www.dpconline.org/digipres/implement-digipres/dpc-ram)
 
-[Introduction to Metadata](/resources/metadata/pdf)
+[Introduction to Metadata](/resources/tna_metadata.pdf)
 
-[Migration and Normalisation of Files](/resources/files.pdf)
+[Migration and Normalisation of Files](/resources/tna_files.pdf)
 
-[Selection and Retention Strategies](/resources/select.pdf)
+[Selection and Retention Strategies](/resources/tna_select.pdf)
 
-[Collections Management](/resources/collection.pdf)
+[Collections Management](/resources/tna_collection.pdf)
 
 ### Thursday 14th November - Dissemination and Data Reuse
 
-[Case Study - Archiving the CHERISH Dataset](/resources/cherish.pdf)
+Case Study - Archiving the CHERISH Dataset - To be added
 
-[Communication and Dissemination](/resources/dissemination.pdf)
+[Communication and Dissemination](/resources/tna_dissemination.pdf)
 
-[Disseminating ADS Research and Data](/resources/ads_comms.pdf)
+[Disseminating ADS Research and Data](/resources/tna_ads_comms.pdf)
 
-[Data Reuse](/resources/reuse.pdf)
+Data Reuse - To be added
 
-[Digital publication: Data Papers](/resources/datapaper.pdf)
+[Digital publication: Data Papers](/resources/tna_datapaper.pdf)
 
 ### Friday 15th November
 
-[Building Clean and Archivable Data : Workshop](/resources/workshop.pdf)
+[Building Clean and Archivable Data : Workshop](/resources/tna_workshop.pdf)
 
 ### Other Useful Links
 
@@ -72,14 +72,11 @@ Collection Highlights
 -   [ARGOS](https://argos.openaire.eu/home)
 -   [DAMAP](https://damap.org)
 -   [Open Citations Tool](https://opencitations.net/tools)
--   https://www.fulcrum.org/epubs/bz60cw28v?locale=en#/6/2\[a01_Cover\]!/4/4/1:0
+-   [A Mid-Republican House From Gabii](https://www.doi.org/10.3998/mpub.9231782)
 -   [EU Citizen Science](https://eu-citizen.science/project/135)
 -   [Gabi Goes Digital](https://gabii.cast.uark.edu/gabiigoesdigital/index.html)
 -   [MAEASAM Project](https://maeasam.org/)
 -   [ARCHES](https://www.archesproject.org/)
--   [COST Action}(https://www.cost.eu/about/about-cost/)
+-   [COST Action](https://www.cost.eu/about/about-cost/)
 -   [Voyager Story Standalone](https://3d.si.edu/voyager-story-standalone)
 -   [Eureka3d](https://eureka3d.eu/)
-
-
-
