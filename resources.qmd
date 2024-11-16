@@ -2,66 +2,73 @@
 title: "Resources"
 ---
 
+The following resources were materials circulated throughout the course of the ADS Training School. These resources are available to reuse under a [Creative Commons](https://creativecommons.org/) CC-BY 4.0 licence. These resources are shared in line with [ADS policies on Access and Reuse](https://archaeologydataservice.ac.uk/about/policies/use-access-to-data/).
+
+::: callout-note
+To cite the following resources please use the following citation:
+
+Archaeology Data Service (2024) ADS ADS Transnational Access Training School \[data-set\]. York: Archaeology Data Service.
+:::
+
+
 ### Monday 11th November - Introduction
 
-[Introduction to the ADS Training School](/resources/tna_intro.pdf)
+[Introduction to the ADS Training School](/resources/tna_intro.pdf) - Nicky Garland
 
-[Introduction to ADS - Tim Evans](/resources/evans_intro.pdf)
+[Introduction to ADS](/resources/evans_intro.pdf) - Tim Evans
 
 Collection Highlights
 
--   [Crystal Palace Dinosaurs](/resources/crystal.pdf)
--   [Thornborough Henge](/resources/thornborough.pdf)
+-   [Crystal Palace Dinosaurs](/resources/crystal.pdf) - Jamie Geddes
+-   [Thornborough Henge](/resources/thornborough.pdf) - Richard Lee
 
-[Objective Setting Exercise](/resources/tna_objectives.pdf)
+[Objective Setting Exercise](/resources/tna_objectives.pdf) - Nicky Garland
 
 ### Tuesday 12th November - Data Management
 
-[Open Research](/resources/tna_open.pdf)
+[Open Research](/resources/tna_open.pdf) - Nicky Garland
 
-[The FAIR and CARE Principles](/resources/tna_fair.pdf)
+[The FAIR and CARE Principles](/resources/tna_fair.pdf) - Valeria Carrillo
 
-[Data Management](/resources/tna_data.pdf)
+[Data Management](/resources/tna_data.pdf) - Nicky Garland
 
-[The Importance of Metadata](/resources/tna_metadata.pdf)
+[The Importance of Metadata](/resources/tna_metadata.pdf) - Nicky Garland and Jenny O'Brien
 
-[Data Storage](/resources/tna_storage.pdf)
+[Data Storage](/resources/tna_storage.pdf) - Tim Evans
 
-[Resources](/resources/tna_tips.pdf)
+[Resources](/resources/tna_tips.pdf) - Nicky Garland
 
 ### Wednesday 13th November - Digital Preservation and Quality Assurance
 
-[Introduction to Digital Preservation](/resources/tna_intro_dig.pdf)
+[Introduction to Digital Preservation](/resources/tna_intro_dig.pdf) - Olivia Foster
 
-[Workflows for Digital Archives - A Tour of the ADS archiving workflow](/resources/tna_workflows.pdf)
+[Workflows for Digital Archives - A Tour of the ADS archiving workflow](/resources/tna_workflows.pdf) - Nicky Garland
 
-[Digital Preservation Coalition - Rapid Assessment Model](/resources/tna_dpcram.pdf)
+[Digital Preservation Coalition - Rapid Assessment Model](/resources/tna_dpcram.pdf) - Nicky Garland
 
 [DPC RAM](https://www.dpconline.org/digipres/implement-digipres/dpc-ram)
 
-[Introduction to Metadata](/resources/tna_metadata.pdf)
+[Migration and Normalisation of Files](/resources/tna_files.pdf) - Olivia Foster
 
-[Migration and Normalisation of Files](/resources/tna_files.pdf)
+[Selection and Retention Strategies](/resources/tna_select.pdf) - Nicky Garland
 
-[Selection and Retention Strategies](/resources/tna_select.pdf)
-
-[Collections Management](/resources/tna_collection.pdf)
+[Collections Management](/resources/tna_collection.pdf) - Nicky Garland
 
 ### Thursday 14th November - Dissemination and Data Reuse
 
-Case Study - Archiving the CHERISH Dataset - To be added
+Case Study - Archiving the CHERISH Dataset - To be added - Lesley Davidson
 
-[Communication and Dissemination](/resources/tna_dissemination.pdf)
+[Communication and Dissemination](/resources/tna_dissemination.pdf) - Nicky Garland
 
-[Disseminating ADS Research and Data](/resources/tna_ads_comms.pdf)
+[Disseminating ADS Research and Data](/resources/tna_ads_comms.pdf) - Nicky Garland and Grace McCulloch
 
-Data Reuse - To be added
+Data Reuse - To be added - Holly Wright
 
-[Digital publication: Data Papers](/resources/tna_datapaper.pdf)
+[Digital publication: Data Papers](/resources/tna_datapaper.pdf) - Juidth Winters
 
 ### Friday 15th November
 
-[Building Clean and Archivable Data : Workshop](/resources/tna_workshop.pdf)
+[Building Clean and Archivable Data : Workshop](/resources/tna_workshop.pdf) - Jamie Geddes and Nicky Garland
 
 ### Other Useful Links
 
