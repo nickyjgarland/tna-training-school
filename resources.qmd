@@ -10,80 +10,115 @@ To cite the following resources please use the following citation:
 Archaeology Data Service (2024) ADS ADS Transnational Access Training School \[data-set\]. York: Archaeology Data Service.
 :::
 
+## Monday 11th November
 
-### Monday 11th November - Introduction
+### Introduction
 
-[Introduction to the ADS Training School](/resources/tna_intro.pdf) - Nicky Garland
+-   [Introduction to the ADS Training School](/resources/tna_intro.pdf) - Nicky Garland
 
-[Introduction to ADS](/resources/evans_intro.pdf) - Tim Evans
+-   [Introduction to ADS](/resources/evans_intro.pdf) - Tim Evans
 
-Collection Highlights
+-   Collection Highlights
 
--   [Crystal Palace Dinosaurs](/resources/crystal.pdf) - Jamie Geddes
--   [Thornborough Henge](/resources/thornborough.pdf) - Richard Lee
+    -   [Crystal Palace Dinosaurs](/resources/crystal.pdf) - Jamie Geddes
+    -   [Thornborough Henge](/resources/thornborough.pdf) - Richard Lee
 
-[Objective Setting Exercise](/resources/tna_objectives.pdf) - Nicky Garland
+-   [Objective Setting Exercise](/resources/tna_objectives.pdf) - Nicky Garland
 
-### Tuesday 12th November - Data Management
+## Tuesday 12th November
 
-[Open Research](/resources/tna_open.pdf) - Nicky Garland
+### Data Management
 
-[The FAIR and CARE Principles](/resources/tna_fair.pdf) - Valeria Carrillo
+-   [Open Research](/resources/tna_open.pdf) - Nicky Garland
 
-[Data Management](/resources/tna_data.pdf) - Nicky Garland
+-   [The FAIR and CARE Principles](/resources/tna_fair.pdf) - Valeria Carrillo
 
-[The Importance of Metadata](/resources/tna_metadata.pdf) - Nicky Garland and Jenny O'Brien
+-   [Data Management](/resources/tna_data.pdf) - Nicky Garland
 
-[Data Storage](/resources/tna_storage.pdf) - Tim Evans
+-   [The Importance of Metadata](/resources/tna_metadata.pdf) - Nicky Garland and Jenny O'Brien
 
-[Resources](/resources/tna_tips.pdf) - Nicky Garland
+-   [Data Storage](/resources/tna_storage.pdf) - Tim Evans
 
-### Wednesday 13th November - Digital Preservation and Quality Assurance
+-   [Resources](/resources/tna_tips.pdf) - Nicky Garland
 
-[Introduction to Digital Preservation](/resources/tna_intro_dig.pdf) - Olivia Foster
+## Wednesday 13th November
 
-[Workflows for Digital Archives - A Tour of the ADS archiving workflow](/resources/tna_workflows.pdf) - Nicky Garland
+### Digital Preservation and Quality Assurance
 
-[Digital Preservation Coalition - Rapid Assessment Model](/resources/tna_dpcram.pdf) - Nicky Garland
+-   [Introduction to Digital Preservation](/resources/tna_intro_dig.pdf) - Olivia Foster
 
-[DPC RAM](https://www.dpconline.org/digipres/implement-digipres/dpc-ram)
+-   [Workflows for Digital Archives - A Tour of the ADS archiving workflow](/resources/tna_workflows.pdf) - Nicky Garland
 
-[Migration and Normalisation of Files](/resources/tna_files.pdf) - Olivia Foster
+-   [Digital Preservation Coalition - Rapid Assessment Model](/resources/tna_dpcram.pdf) - Nicky Garland
 
-[Selection and Retention Strategies](/resources/tna_select.pdf) - Nicky Garland
+-   [DPC RAM](https://www.dpconline.org/digipres/implement-digipres/dpc-ram)
 
-[Collections Management](/resources/tna_collection.pdf) - Nicky Garland
+-   [Migration and Normalisation of Files](/resources/tna_files.pdf) - Olivia Foster
 
-### Thursday 14th November - Dissemination and Data Reuse
+-   [Selection and Retention Strategies](/resources/tna_select.pdf) - Nicky Garland
 
-Case Study - Archiving the CHERISH Dataset - To be added - Lesley Davidson
+-   [Collections Management](/resources/tna_collection.pdf) - Nicky Garland
 
-[Communication and Dissemination](/resources/tna_dissemination.pdf) - Nicky Garland
+## Thursday 14th November
 
-[Disseminating ADS Research and Data](/resources/tna_ads_comms.pdf) - Nicky Garland and Grace McCulloch
+### Dissemination and Data Reuse
 
-Data Reuse - To be added - Holly Wright
+-   [Case Study - Archiving the CHERISH Dataset](/resources/davidson_cherish.pdf) - Lesley Davidson
 
-[Digital publication: Data Papers](/resources/tna_datapaper.pdf) - Juidth Winters
+-   [Communication and Dissemination](/resources/tna_dissemination.pdf) - Nicky Garland
 
-### Friday 15th November
+-   [Disseminating ADS Research and Data](/resources/tna_ads_comms.pdf) - Nicky Garland and Grace McCulloch
 
-[Building Clean and Archivable Data : Workshop](/resources/tna_workshop.pdf) - Jamie Geddes and Nicky Garland
+-   Data Reuse - To be added - Holly Wright
 
-### Other Useful Links
+-   [Digital publication: Data Papers](/resources/tna_datapaper.pdf) - Judith Winters
 
--   [TNA Blog](https://atrium-research.eu/blog/)
--   [atRium Training School Reports](https://petrpajdla.github.io/atRium/report.html)
--   [DMP OPIDor](https://dmp.opidor.fr/)
--   [Guidance on Selection in Archaeological Archiving](https://www.academia.edu/resource/work/46868761)
--   [ARGOS](https://argos.openaire.eu/home)
--   [DAMAP](https://damap.org)
--   [Open Citations Tool](https://opencitations.net/tools)
--   [A Mid-Republican House From Gabii](https://www.doi.org/10.3998/mpub.9231782)
--   [EU Citizen Science](https://eu-citizen.science/project/135)
--   [Gabi Goes Digital](https://gabii.cast.uark.edu/gabiigoesdigital/index.html)
--   [MAEASAM Project](https://maeasam.org/)
--   [ARCHES](https://www.archesproject.org/)
--   [COST Action](https://www.cost.eu/about/about-cost/)
--   [Voyager Story Standalone](https://3d.si.edu/voyager-story-standalone)
--   [Eureka3d](https://eureka3d.eu/)
+## Friday 15th November
+
+-   [Building Clean and Archivable Data : Workshop](/resources/tna_workshop.pdf) - Jamie Geddes and Nicky Garland
+
+## Other Useful Links
+
+During the Training School, participants contributed links to useful resources related to the topics covered.
+
+#### ATRIUM Transnational Access Scheme
+
+-   [TNA Blog](https://atrium-research.eu/blog/) - Transnational Access Scheme Blog (a possible structure for the Training School report)
+-   [atRium Training School Reports](https://petrpajdla.github.io/atRium/report.html) - Examples of completed TNA Summer School reports
+
+#### Data Management
+
+-   [DMP OPIDor](https://dmp.opidor.fr/) - An active support tool to help plan your data management in harmony with your community’s practices.
+-   [DMP Online](https://dmponline.dcc.ac.uk/) - A tool to help you to create, review, and share data management plans that meet institutional and funder requirements.
+-   [DMPTool](https://dmptool.org/) - A free, community-supported service that makes it easier to create machine-actionable data management and sharing plans.
+-   [ARGOS](https://argos.openaire.eu/home) - An open extensible service that simplifies the management, validation, monitoring and maintenance and of Data Management Plans.
+-   [DAMAP](https://damap.org) - A tool for machine actionable DMPs.
+-   [ARCHES](https://www.archesproject.org/) - An open source data management platform for the heritage field.
+
+#### 3D data
+
+-   [A Mid-Republican House From Gabii](https://www.doi.org/10.3998/mpub.9231782) - Digital publication with embedded 3d models.
+-   [Gabi Goes Digital](https://gabii.cast.uark.edu/gabiigoesdigital/index.html) - A project that aimed to bring the 3D modelling work to publications.
+-   [Voyager Story Standalone](https://3d.si.edu/voyager-story-standalone) - A backend user interface for authoring 3D Voyager scene.
+
+#### Selection
+
+-   [Guidance on Selection in Archaeological Archiving](https://www.academia.edu/resource/work/46868761) - EAC Guidelines on Selection for Physical and Digital archaeological archives.
+-   [File formats for long term preservation, as recommended by the CINES French institution](https://facile.cines.fr/)
+
+#### Workflows
+
+-   [Social Sciences & Humanities Open Marketplace](https://marketplace.sshopencloud.eu/) - Resources for research in Social Sciences and Humanities: tools, services, training materials, workflows and datasets
+-   [archeoViz](https://analytics.huma-num.fr/archeoviz/home/) - A R Shiny application for the visualisation, interactive exploration, and web communication of archaeological spatial data.
+-   \[archeoViz Blog\] - Companion blog post for the archeoViz application.
+
+#### Interesting Research Projects
+
+-   [MAEASAM Project](https://maeasam.org/) - Mapping Africa's Endangered Archaeological Sites and Monuments.
+-   [Eureka3d](https://eureka3d.eu/) - Research Project to help enable the digital transformation of the Cultural Heritage sector.
+-   [Open Citations Tool](https://opencitations.net/tools) - OpenCitations provides additional tools for retrieving information about bibliographic and citation data.
+
+#### Other
+
+-   [COST Action](https://www.cost.eu/about/about-cost/) - The European Cooperation in Science and Technology (COST) is a funding organisation for the creation of research networks, called COST Actions.
+-   [EU Citizen Science](https://eu-citizen.science/project/135) - Heritage Quest, a Citizen Science project from the Netherlands.
