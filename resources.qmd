@@ -117,6 +117,7 @@ During the Training School, participants contributed links to useful resources r
 -   [MAEASAM Project](https://maeasam.org/) - Mapping Africa's Endangered Archaeological Sites and Monuments.
 -   [Eureka3d](https://eureka3d.eu/) - Research Project to help enable the digital transformation of the Cultural Heritage sector.
 -   [Open Citations Tool](https://opencitations.net/tools) - OpenCitations provides additional tools for retrieving information about bibliographic and citation data.
+-   [The FeedSax Project](https://doi.org/10.5284/1057492) - ADS Digital Archive for Feeding Anglo-Saxon England: The Bioarchaeology of an Agricultural Revolution, 2017-2022.
 
 #### Other
 
