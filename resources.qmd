@@ -69,7 +69,7 @@ Archaeology Data Service (2024) ADS ADS Transnational Access Training School \[d
 
 -   [Disseminating ADS Research and Data](/resources/tna_ads_comms.pdf) - Nicky Garland and Grace McCulloch
 
--   Data Reuse - To be added - Holly Wright
+-   [Data Reuse](/resources/tna_reuse.pdf) - Holly Wright
 
 -   [Digital publication: Data Papers](/resources/tna_datapaper.pdf) - Judith Winters
 
@@ -110,7 +110,7 @@ During the Training School, participants contributed links to useful resources r
 
 -   [Social Sciences & Humanities Open Marketplace](https://marketplace.sshopencloud.eu/) - Resources for research in Social Sciences and Humanities: tools, services, training materials, workflows and datasets
 -   [archeoViz](https://analytics.huma-num.fr/archeoviz/home/) - A R Shiny application for the visualisation, interactive exploration, and web communication of archaeological spatial data.
--   \[archeoViz Blog\] - Companion blog post for the archeoViz application.
+-   [archeoViz Blog](https://archeoviz.hypotheses.org/) - Companion blog post for the archeoViz application.
 
 #### Interesting Research Projects
 
