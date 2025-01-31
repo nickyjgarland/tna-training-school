@@ -34,7 +34,7 @@ website:
       - href: resources.qmd
         text: Resources
         icon: card-text
-      - href: https://github.com/
+      - href: https://github.com/nickyjgarland/tna-training-school
         icon: github
   
   page-footer: 
